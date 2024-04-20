@@ -1,2 +1,5 @@
-# uec-visual-computing
-電気通信大学３年　ビジュアル情報処理
+# Visual Computing using Processing!
+ビジュアル情報処理
+
+It's my first time to use Processing, so I think I'm going to upload some more works in the future!
+Processing is actually interesting because it's very simple and easy to learn.

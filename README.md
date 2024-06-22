@@ -1,4 +1,3 @@
-Visual Computing with Processing!
 # Processing Projects Collection
 
 こちらは、Processingを使った2Dおよび3Dプログラムのコレクションです。多彩なビジュアルやアニメーションのプロジェクトが揃っています。

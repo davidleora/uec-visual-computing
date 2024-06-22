@@ -1,5 +1,55 @@
-# Visual Computing using Processing!
-ビジュアル情報処理
+Visual Computing with Processing!
+# Processing Projects Collection
 
-It's my first time to use Processing, so I think I'm going to upload some more works in the future!
-Processing is actually interesting because it's very simple and easy to learn.
+こちらは、Processingを使った2Dおよび3Dプログラムのコレクションです。多彩なビジュアルやアニメーションのプロジェクトが揃っています。
+
+## プロジェクト一覧
+
+このリポジトリには、以下のプロジェクトが含まれています：
+
+### 演習 (Exercises)
+- オーストリア国旗
+- キューバ国旗
+- 直線運動反射
+- 回転する五芒星
+- リサジュー図形
+- 楕円画像
+- シェルピンスキーのギャスケット
+- 3Dボックス
+
+### 宿題 (Homework)
+- ブルンジ国旗
+- カラーバリエーション
+- パックマン
+- バウンドするボール2D
+- アメリカ合衆国旗
+- マウスベジェ曲線C1
+- アメリカ合衆国旗星パターン
+- 中国国旗
+- 鏡面顔
+- 中央鏡面顔
+- 両側対称
+- 簡単な非写実的レンダリング
+- 木の描画
+- ペアノ曲線
+- 円柱上のキャラクターアニメ
+- ロボット
+
+### 週ごとの例 (Weekly Examples)
+- 3Dグリッド
+- 3D軸平行
+- 平行3D
+- 透視図法3D
+- ボーナス例
+- 惑星3D
+- 直線運動例
+- 簡単なベジェ曲線
+- 座標変換
+- フォント表示
+- デカルトの葉の実践
+- 3D軸
+- テキスト付き3D軸
+
+## 使用方法
+
+各プロジェクトフォルダには、それぞれのプロジェクトのソースコードが含まれています。Processing IDEを使用して、プロジェクトを開き、実行します。
